@@ -1,0 +1,7 @@
+{
+"name" : "bob",
+"gender" : "Female",
+"productName": ["Blackberry", "Nokia Edge"],
+"defaultCountry": "India",
+"sumPath": "h3 strong"
+}
